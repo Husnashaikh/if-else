@@ -1,5 +1,5 @@
 print("welocme to SBI")
-print("swipe the ATM card")
+print("pls enter tha card")
 language=input("enter the language hindi/english:")
 if(language=="english"):
     pin=int(input("enter the 4-digit number:"))
